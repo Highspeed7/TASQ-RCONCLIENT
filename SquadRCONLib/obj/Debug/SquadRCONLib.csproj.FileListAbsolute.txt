@@ -1,0 +1,7 @@
+C:\Users\Justin\source\repos\WindowsApp2\ClassLibrary1\obj\Debug\SquadRCONLib.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\WindowsApp2\ClassLibrary1\bin\Debug\SquadRCONLib.dll
+C:\Users\Justin\source\repos\WindowsApp2\ClassLibrary1\bin\Debug\SquadRCONLib.pdb
+C:\Users\Justin\source\repos\WindowsApp2\ClassLibrary1\obj\Debug\SquadRCONLib.dll
+C:\Users\Justin\source\repos\WindowsApp2\ClassLibrary1\obj\Debug\SquadRCONLib.pdb
+C:\Users\Justin\source\repos\WindowsApp2\ClassLibrary1\bin\Debug\SquadRCONLib.dll.CodeAnalysisLog.xml
+C:\Users\Justin\source\repos\WindowsApp2\ClassLibrary1\bin\Debug\SquadRCONLib.dll.lastcodeanalysissucceeded

@@ -1,0 +1,5 @@
+C:\Users\Justin\source\repos\WindowsApp2\ClassLibrary1\bin\Release\SquadRCONLib.dll
+C:\Users\Justin\source\repos\WindowsApp2\ClassLibrary1\bin\Release\SquadRCONLib.pdb
+C:\Users\Justin\source\repos\WindowsApp2\ClassLibrary1\obj\Release\SquadRCONLib.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\WindowsApp2\ClassLibrary1\obj\Release\SquadRCONLib.dll
+C:\Users\Justin\source\repos\WindowsApp2\ClassLibrary1\obj\Release\SquadRCONLib.pdb
